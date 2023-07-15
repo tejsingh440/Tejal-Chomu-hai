@@ -1,0 +1,12 @@
+.container{height:150px; width: 550px; 
+    background-color: rgb(14, 230, 212);
+margin:2px;
+border:2px solid black;}
+.box{
+    display:inline;
+    height:250px; 
+    width: 250px;
+background-color: aqua;
+margin:2px;
+border:2px solid black;
+}
